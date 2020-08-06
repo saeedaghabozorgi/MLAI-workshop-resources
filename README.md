@@ -1,2 +1,2 @@
 # MLAI-workshop-resources
-test
+SageMaker workshop
